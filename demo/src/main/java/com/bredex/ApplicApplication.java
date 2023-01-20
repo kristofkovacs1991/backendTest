@@ -20,7 +20,7 @@ public class ApplicApplication {
 		SpringApplication.run(ApplicApplication.class, args);
 
 
-		InetAddress ip = InetAddress.getLocalHost();
+
 
 
 	}
